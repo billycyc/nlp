@@ -1,4 +1,6 @@
 # NLP
+![python](https://img.shields.io/badge/Python-blue) ![nltk](https://img.shields.io/badge/NLTK-green) ![matplotlib](https://img.shields.io/badge/Matplotlib-green)
+
 ## What is it?
 In this NLP project, I explored Brown text corpus from NLTK package, processed the text 
 and applied NLP operations such as stemming, lemmatization, finding synonyms and antonyms, and finding bigrams.
